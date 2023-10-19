@@ -24,6 +24,7 @@ Languages:
 
 - 📄 Resume: [https://www.google.com/](https://www.google.com/)
 
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href='mailto:m.mihok1@gmail.com' target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail_logo" width="50" height="50"/></a>
