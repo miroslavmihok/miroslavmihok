@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miro</h1>
 <h3 align="center">A very passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miroslavmihok&label=Profile%20views&color=0e75b6&style=flat" alt="miroslavmihok" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=miroslavmihok&label=Profile%20views&color=0e75b6&style=flat" alt="miroslavmihok" /> </p>
 
 - 🔭 I’m currently working on **Next Wipe - Server listing for Rust game servers**
 
