@@ -6,10 +6,10 @@
 
 Languages:
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg" alt="slovakia" width="50" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" alt="english" width="50" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="german" width="50" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg" alt="france" width="50" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg" alt="slovakia" width="40" height="26"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" alt="english" width="40" height="26"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="german" width="40" height="26"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg" alt="france" width="40" height="26"/>
 </p>
 
 - 🔭 I’m currently working on **Next Wipe - Server listing for Rust game servers**
