@@ -42,8 +42,10 @@
 </p>
 
 ## Development Tools
-- Visual Studio Code
-- Git
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
+
 
 ## Design Tools
 - Adobe Photoshop
