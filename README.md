@@ -4,6 +4,14 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=miroslavmihok&label=Profile%20views&color=0e75b6&style=flat" alt="miroslavmihok" /> </p>
 
+Languages:
+<p align="left">
+  <img src="https://de.wikipedia.org/wiki/Slowakei#/media/Datei:Flag_of_Slovakia.svg" alt="slovakia" width="50" height="30"/>
+  <img src="https://de.wikipedia.org/wiki/Vereinigtes_K%C3%B6nigreich#/media/Datei:Flag_of_the_United_Kingdom_(3-5).svg" alt="english" width="50" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="german" width="50" height="30"/>
+  <img src="https://de.wikipedia.org/wiki/Frankreich#/media/Datei:Flag_of_France_(1794%E2%80%931815,_1830%E2%80%931974).svg" alt="france" width="50" height="30"/>
+</p>
+
 - 🔭 I’m currently working on **Next Wipe - Server listing for Rust game servers**
 
 - 🌱 I’m currently learning **Angular, Typescript and Next.js**
