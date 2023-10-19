@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miro</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=miroslavmihok&label=Profile%20views&color=0e75b6&style=flat" alt="miroslavmihok" /> </p>
 <h3 align="center">A very passionate frontend developer</h3>
 <p>Originally from Slovakia, living in Austria/Burgenland. I love coding and solving problems. My favorite sport to do is cycling and favorite sports to watch are baseball and ice hockey. Evenings I play games with friends online.</p>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=miroslavmihok&label=Profile%20views&color=0e75b6&style=flat" alt="miroslavmihok" /> </p>
 
 Languages:
 <p align="left">
@@ -11,6 +10,7 @@ Languages:
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="german" width="40" height="26"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg" alt="france" width="40" height="26"/>
 </p>
+
 
 - 🔭 I’m currently working on **Next Wipe - Server listing for Rust game servers**
 
