@@ -16,11 +16,11 @@ Languages:
 
 - 🌱 I’m currently learning **Angular, Typescript and Next.js**
 
-- 👨‍💻 Portfolio: [https://www.google.com/](https://www.google.com/)
-
 - 💬 Ask me about **JS, React, GSAP, Tailwind**
 
 - 📫 How to reach me **m.mihok1@gmail.com**
+
+- 👨‍💻 Portfolio: [https://www.google.com/](https://www.google.com/)
 
 - 📄 Resume: [https://www.google.com/](https://www.google.com/)
 
