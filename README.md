@@ -20,9 +20,9 @@ Languages:
 
 - 📫 How to reach me **m.mihok1@gmail.com**
 
-- 👨‍💻 Portfolio: [https://www.google.com/](https://www.google.com/)
+- 👨‍💻 Portfolio: [https://miroslavmihok.com/](https://miroslavmihok.com/)
 
-- 📄 Resume: [https://www.google.com/](https://www.google.com/)
+- 📄 Resume: [https://drive.google.com/file/d/1eBwd0DjuIEvLm3-fhnOHQFuO108GD1ZQ/view](https://drive.google.com/file/d/1eBwd0DjuIEvLm3-fhnOHQFuO108GD1ZQ/view)
 
 <br/>
 <h3 align="left">Connect with me:</h3>
