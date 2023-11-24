@@ -22,7 +22,7 @@ Languages:
 
 - 👨‍💻 Portfolio: [https://miroslavmihok.com/](https://miroslavmihok.com/)
 
-- 📄 Resume (DE): <a href="https://drive.google.com/file/d/1fRcUpEOJW5qTu_bboDqnaXc-GZAiCuVg/view?usp=drive_link" target="_blank">Resume_DE</a>
+- 📄 Resume (DE): <a href="https://drive.google.com/file/d/1DiJON4sQAv8HA0J82LemybyQRl-AAvQi/view?usp=drive_link" target="_blank">Resume_DE</a>
 
 - 📄 Resume (EN): <a href="https://drive.google.com/file/d/1PRRKzYt-5NRVWaMuZ-VWA9k6jOuE4LvO/view?usp=drive_link" target="_blank">Resume_EN</a>
 
