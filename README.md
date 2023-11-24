@@ -22,11 +22,9 @@ Languages:
 
 - 👨‍💻 Portfolio: [https://miroslavmihok.com/](https://miroslavmihok.com/)
 
-- 📄 Resume (DE): [https://drive.google.com/file/d/1fRcUpEOJW5qTu_bboDqnaXc-GZAiCuVg/view?usp=drive_link](https://drive.google.com/file/d/1fRcUpEOJW5qTu_bboDqnaXc-GZAiCuVg/view?usp=drive_link)
+- 📄 Resume (DE): <a href="https://drive.google.com/file/d/1fRcUpEOJW5qTu_bboDqnaXc-GZAiCuVg/view?usp=drive_link" target="_blank">Resume_DE</a>
 
-- 📄 Resume (EN): [https://drive.google.com/file/d/1PRRKzYt-5NRVWaMuZ-VWA9k6jOuE4LvO/view?usp=drive_link](https://drive.google.com/file/d/1PRRKzYt-5NRVWaMuZ-VWA9k6jOuE4LvO/view?usp=drive_link)
-
-<a href="https://drive.google.com/file/d/1fRcUpEOJW5qTu_bboDqnaXc-GZAiCuVg/view?usp=drive_link" target="_blank">Test</a>
+- 📄 Resume (EN): <a href="https://drive.google.com/file/d/1PRRKzYt-5NRVWaMuZ-VWA9k6jOuE4LvO/view?usp=drive_link" target="_blank">Resume_EN</a>
 
 <br/>
 <h3 align="left">Connect with me:</h3>
