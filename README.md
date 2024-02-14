@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miro</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=miroslavmihok&label=Profile%20views&color=0e75b6&style=flat" alt="miroslavmihok" /> </p>
 <h3 align="center">A very passionate frontend developer</h3>
-<p>Originally from Slovakia, living in Austria/Burgenland. I love coding and solving problems. My favorite sport to do is cycling and favorite sports to watch are baseball and ice hockey. Evenings I play games with friends online.</p>
+<p>Originally from Slovakia, living in Austria/Burgenland. I love coding and solving problems. My favorite sport to do is cycling and favorite sports to watch are baseball and ice hockey. I code daily from Mornings till 19:00. Evenings I play games with friends online.</p>
 
 Languages:
 <p align="left">
