@@ -12,7 +12,7 @@ Languages:
 </p>
 <br/>
 
-- 🔭 I’m currently working on **Next Wipe - Server listing for Rust game servers**
+- 🔭 I’m currently working on **Dawndelvers - website for gamers, who need coaching or boosting for their favorite game**
 
 - 🌱 I’m currently learning **Angular, Typescript and Next.js**
 
